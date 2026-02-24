@@ -1,0 +1,272 @@
+    1  man sudo_root
+    2  sudo apt-get install -y curl unzip
+    3  mkdir -p quests/shell/real quests/shell/fictional quests/shell/inhabited
+    4  quests/shell/real
+    5  mkdir -p quests/shell/terrestrial quests/shell/gas-giants quests/shell/dwarf-planets
+    6  pwd
+    7  sudo apt-get install -y curl unzip
+    8  pwd
+    9  curl --ssl-no-revoke -L -o planets.zip "https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true"
+   10  unzip planets.zip
+   11  pws
+   12  mv planets/mercury.jpeg real
+   13  mv planets/earth.jpeg real
+   14  mv planets/jupiter.jpeg real
+   15  mv planets/venus.jpeg real
+   16  mv planets/mars.jpeg real
+   17  mv planets/uranus.jpeg real
+   18  mv planets/neptune.jpeg real
+   19  mv planets/pluto.jpeg planets/real
+   20  mv planets/neptune.jpeg planets/real
+   21  ~/quests/shell
+   22  rmdir
+   23  rm -r planets
+   24  pwd
+   25  cd ~
+   26  pwd
+   27  cd/ls
+   28  echo "je suis moisi" > vieuxtacos.txt
+   29  cat vieuxtacos.txt
+   30  echo "je ne suis pas moisi" > vieuxtacos.txt
+   31  mv vieuxtacos.txt tacos.txt
+   32  rm tacos.txt
+   33  /opt
+   34  /opt
+   35  mkdir tacosfolder
+   36  cd tacosfolder
+   37  cs ..
+   38  cs .
+   39  cd .
+   40  sudo rm -r tacosfolder
+   41  cd .
+   42  rm -r tacosfolder
+   43  rm tacosfolder
+   44  cd ..
+   45  sudo rm -r tacosfolder
+   46  cd~/Documents
+   47  cd ~/Documents
+   48  mkdir chalet
+   49  echo fauteuil1
+   50  touch fauteil1
+   51  mv fauteuil1 chalet
+   52  cd ..
+   53  cd ~/Documents
+   54  pwd
+   55  cd ~/Documents/chalet
+   56  pwd
+   57  /home/shauk/Documents/chalet
+   58  /home/shauk/Documents
+   59  pwd
+   60  cd ~/Documents
+   61  mkdir chalet
+   62  touch fauteuil1
+   63  mv fauteuil1 chalet
+   64  ~/Documents/chalet
+   65  mrdir armure
+   66  mkdir armure
+   67  mkdir armoires
+   68  mkdir etageres
+   69  chalet
+   70  cd armoires/
+   71  cd .
+   72  cd ..
+   73  cp fauteuil1 fauteuil2
+   74  /chalet
+   75  cd ~/chalet
+   76  cp fauteuil1 fauteuil2
+   77  cd ~/Documents
+   78  mkdir chalet
+   79  touch fauteuil1
+   80  mv fauteuil1 chalet
+   81  ~/Documents/chalet
+   82  ~/chalet
+   83  /chalet
+   84  mv fauteuil1 chalet
+   85  ~/Documents/chalet
+   86  ~/Documents/chalet mkdir amure
+   87  mkdir armure
+   88  mkdir armoires
+   89  mkdir etageres
+   90  cd ~/chalet
+   91  ~/Documents/chalet
+   92  cd armoires/
+   93  cd .
+   94  cd ..
+   95  cd chalet/
+   96  cd ~/Documents
+   97  mkdir chalet
+   98  touch fauteuil1
+   99  mv fauteuil1 chalet
+  100  cd chalet
+  101  mkdir armure
+  102  mkdir armoires
+  103  mkdir etageres
+  104  cd armoires/
+  105  cd ..
+  106  cp fauteuil1 fauteuil2
+  107  echo bibelots
+  108  mv ../bibelots
+  109  cd armoires
+  110  mv ../bibelots
+  111  mv ../bibelots bibelots
+  112  cd chalet/
+  113  ~/Documents
+  114  find chalet
+  115  cd documents
+  116  cd ..
+  117  find chalet
+  118  ~/quests/shell
+  119  mkdir quests
+  120  cd quests
+  121  mkdir shell
+  122  cd shell
+  123  curl --ssl-no-revoke -L -o planets.zip "https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true"
+  124  unzip planets.zip
+  125  cd planets
+  126  mkdir real
+  127  mkdir fictional
+  128  mkdir inhabited
+  129  cd real
+  130  mkdir terrestrial
+  131  mkdir gas-giants
+  132  mkdir dwarf-planets
+  133  cp..
+  134  cd..
+  135  cd ..
+  136  mv planets/mercury.jpeg real/terrestrial/
+  137  mv planets/mercury.jpeg terrestrial
+  138  mv planets/mercury terrestrial/
+  139  mv planets/mercury.jpeg real/
+  140  mv planets/mercury.jpeg real
+  141  mv planets/mercury.jpeg planets/real/terrestrial
+  142  mv planet/mercuryj
+  143  planets/mercury.jpeg real
+  144  mv mercury.jpeg real/terrestrial/
+  145  mv venus.jpeg real/terrestrial/
+  146  mv earth.jpeg real/terrestrial/
+  147  mv mars.jpeg real/terrestrial/
+  148  mv jupiter.jpeg real/gas-giants
+  149  mv saturn.jpeg real/gas-giants
+  150  mv uranus.jpeg real/dwarf-planets
+  151  mv neptune.jpeg real/dwarf-planets
+  152  mv arakis.jpeg fictional
+  153  mv arakis.jpeg fictional/
+  154  mv arrakis.jpeg fictional
+  155  mv cybertron.jpeg fictional
+  156  mv coruscant.jpeg fictional
+  157  rm pluton.jpeg
+  158  cb real
+  159  cb terrestrial
+  160  rm pluton.jpeg
+  161  cd real
+  162  cd terrestrial
+  163  rm pluton.jpeg
+  164  cd ..
+  165  mv pluto.jpeg real/terrestrial
+  166  cd planets
+  167  mv pluto.jpeg real/terrestrial
+  168  cd real
+  169  cd terrestrial
+  170  rm pluto.jpeg
+  171  cp earthjp.jpeg planet/inhabited
+  172  cp earth.jpeg planet/inhabited
+  173  cp earth.jpeg inhabited
+  174  cd ..
+  175  cd fictional
+  176  cd ..
+  177  cd fictional
+  178  cp arrakis.jpeg inhabited
+  179  cp cybertron.jpg inhabited
+  180  cp coruscant.jpeg inhabited
+  181  cd ..
+  182  find
+  183  hisory
+  184  history
+  185  sudo apt-get install -y curl
+  186  curl -o Unix_commands.md https://gist.githubusercontent.com/phaneendra/3804036/raw/f124b9f7703114d6be22f55e775cd2d015a45a91/UnixCommands.md
+  187  cat Unix_commands.md
+  188  ls ~ > home-contents.txt
+  189  ls
+  190  find home-contents.txt
+  191  rm home-contents.txt
+  192  find
+  193  ls
+  194  ls / > /dev/null
+  195  cat /foo > /tmp/foo.txt
+  196  cat /foo2> /tmp/foo-err.txt
+  197  /tmp/foo-err.tkt
+  198  cat /foo 2> /dev/null
+  199  cat
+  200  cat > languages.txt
+  201  wc languages.txt
+  202  wc
+  203  sort languages.txt
+  204  sort
+  205  grep Java
+  206  wc < languages.txt
+  207  wget https://www.data.gouv.fr/s/resources/liste-de-prenoms/20141127-154433/Prenoms.csv
+  208  head Prenoms.csv
+  209  478
+  210  grep "f;french" < Prenoms.csv | wc -l
+  211  grep swedish Prenoms.csv > Swedish.csv
+  212  grep danish Prenoms.csv > Danish.csv
+  213  grep norwegian Prenoms.csv > Norwegian.csv
+  214  clear
+  215  curl -o Unix_commands.md
+  216  curl -o Unix_commands.md https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  217  mkdir php_france_2019.csv
+  218  mkdir javascript_biarritz_toulouse.csv
+  219  grep PHP grep France grep 2019
+  220  grep "france" < php_france_2019.csv
+  221  grep "france" < wilder.csv
+  222  grep "France" "2019" < wilders.cvs | wc -1
+  223  grep "France" < wilders.cvs | wc -1
+  224  grep "french;2019" < wilders.cvs | wc -1
+  225  head wilders.cvs
+  226  head wilders.csv
+  227  clear
+  228  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  229  head wilders.csv
+  230  grep "France;2019" < wilders.csv
+  231  grep php;france wilders.csv > php_france-2019.csv
+  232  grep "France;2019;PHP" < wilders.csv
+  233  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  234  head wilders.csv
+  235  grep "France,2019,PHP" < wilders.csv | wc -1
+  236  grep "France,2019,PHP" < wilders.csv
+  237  sort wilders.csv
+  238  sort
+  239  clear
+  240  wget https://gist.githubusercontent.com/bhubr/bc3a21a0202109beeb31c4a677e0461b/raw/d8805eb82e8aabffab3b0163596c734f376617d0/wilders.csv
+  241  head wilders.cvs
+  242  head wilders.csv
+  243  grep "france;2019,PHP" < wilders.csv 
+  244  grep "France,2019,PHP" < wilders.csv
+  245  grep "France,2019,PHP" < wilders.csv | wc -l
+  246  echo "97" > php_france_2019.csv
+  247  cat php_france_2019
+  248  cat php_france_2019.csv
+  249  touch php_france_2019.csv
+  250  echo "97" > php_france_2019.csv
+  251  pls
+  252  ls
+  253  cat php_france_2019.csv
+  254  rm php_france_2019.csv
+  255  rm -r php_france_2019.csv
+  256  ls
+  257  rm -r php_france-2019.csv
+  258  ls
+  259  echo "97" > php_france_2019.csv
+  260  cat php_france_2019.csv 
+  261  grep "Toulouse" < wilders.csv | grep "JavaScript" > javascript_toulouse.csv
+  262  cat javascript_toulouse.csv
+  263  grep "Biarritz" < wilders.csv | grep "JavaScript" > javascript_biarritz.csv
+  264  cat javascript_biarritz.csv
+  265  cat javascript_toulouse.csv javascript_biarritz.csv | sort -u
+  266  cat javascript_toulouse.csv javascript_biarritz.csv | sort -u > javascript_biarritz_toulouse.csv
+  267  ls
+  268  rm -r javascript_biarritz_toulouse.csv
+  269  ls
+  270  cat javascript_toulouse.csv javascript_biarritz.csv | sort -u > javascript_biarritz_toulouse.csv
+  271  cat javascript_biarritz_toulouse.csv
+  272  history > history.txt
