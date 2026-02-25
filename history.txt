@@ -270,3 +270,10 @@
   270  cat javascript_toulouse.csv javascript_biarritz.csv | sort -u > javascript_biarritz_toulouse.csv
   271  cat javascript_biarritz_toulouse.csv
   272  history > history.txt
+
+Rajouté apres modification du premier fichier faux
+436  grep "France" wilders.csv | grep "2019" | grep "PHP" | wc -l > php_france_2019_2.csv
+  437  history
+  438  grep "France,2019,PHP" wilders.csv | wc -l > php_france_2019_2.csv
+  439  history
+A noter que les 2 possibilités ce dessus sont possibles
